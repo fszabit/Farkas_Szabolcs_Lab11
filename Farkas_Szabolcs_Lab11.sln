@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{CBBD36FF-5A48-4786-8C00-3B9D3959CE2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farkas_Szabolcs_Lab11", "Farkas_Szabolcs_Lab11\Farkas_Szabolcs_Lab11.csproj", "{7BD80A47-3C40-4ADF-B116-F329492B8145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBD36FF-5A48-4786-8C00-3B9D3959CE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBD36FF-5A48-4786-8C00-3B9D3959CE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBD36FF-5A48-4786-8C00-3B9D3959CE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBD36FF-5A48-4786-8C00-3B9D3959CE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD80A47-3C40-4ADF-B116-F329492B8145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD80A47-3C40-4ADF-B116-F329492B8145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD80A47-3C40-4ADF-B116-F329492B8145}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7BD80A47-3C40-4ADF-B116-F329492B8145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD80A47-3C40-4ADF-B116-F329492B8145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD80A47-3C40-4ADF-B116-F329492B8145}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {410BCD97-84B5-4860-B711-E4E5B7882093}
+	EndGlobalSection
+EndGlobal
